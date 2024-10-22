@@ -1,4 +1,4 @@
-A simple location extractor app. When user opens link, allows acces, coordinates are sent via email.
+A simple location extractor app. When user opens link, allows access, coordinates are sent via email.
 
 -Set email and app password
 
